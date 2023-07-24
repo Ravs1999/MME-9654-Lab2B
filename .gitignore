@@ -1,0 +1,14 @@
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+
+# VSCode
+.vscode
+
+# ESP-IDF
+build
+sdkconfig*
+
+# Mac OS
+.DS_Store

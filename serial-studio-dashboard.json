@@ -1,0 +1,42 @@
+{
+    "frameEnd": "*/",
+    "frameStart": "/*",
+    "groups": [
+        {
+            "datasets": [
+                {
+                    "alarm": 1000,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": true,
+                    "led": false,
+                    "log": false,
+                    "max": 0,
+                    "min": 75,
+                    "title": "Temp Sensor 1",
+                    "units": "Degrees",
+                    "value": "%1",
+                    "widget": ""
+                },
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": true,
+                    "led": false,
+                    "log": false,
+                    "max": 0,
+                    "min": 75,
+                    "title": "Temp Sensor 2",
+                    "units": "Degrees",
+                    "value": "%2",
+                    "widget": ""
+                }
+            ],
+            "title": "Temperatures",
+            "widget": ""
+        }
+    ],
+    "separator": ",",
+    "title": "1 Wire Termperature Sensor Lab"
+}

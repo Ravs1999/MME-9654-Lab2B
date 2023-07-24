@@ -1,0 +1,13 @@
+Ravneet Lab 2.2 
+https://photos.app.goo.gl/xY4NcdWvTwu6mVsm8
+
+2 Videos, each explaining 2 scenarios: 
+
+1. When temp range > than number of LEDS 
+2. WHen temp range < than number of LEDS 
+
+***Not expained properly for the second case but, basically the approach is to display temperatures about a hardcoded midpoint value and the pot adjusts the upper and lower range. 
+Temperature reading is multiplied by a factor determined by dividing the LED range by the temp range and then rounded to nearest integer LED. Through this method, Im able to display some decimal values of the temperature
+albeit a bit limited. 
+
+
